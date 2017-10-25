@@ -1,0 +1,18 @@
+[
+   {
+      "suspect": "Colonel Mustard",
+      "weapon": "wrench",
+      "rooms": {
+         "seen": ["lounge"],
+         "notSeen": ["kitchen", "library"]
+      }
+   },
+   {
+      "suspect": "Miss Scarlet",
+      "weapon": "candlestick",
+      "rooms": {
+         "seen": ["library", "billiard room"],
+         "notSeen": ["study"]
+		}		 
+   }
+]

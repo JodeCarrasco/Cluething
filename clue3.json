@@ -1,0 +1,18 @@
+[
+   {
+      "suspect": "Mr Green",
+      "weapon": "lead pipe",
+      "rooms": {
+         "seen": ["conservatory"],
+         "notSeen": ["ballroom"]
+		}
+   },
+   {
+      "suspect": "Mrs Peacock",
+      "weapon": "dagger",
+      "rooms": {
+         "seen": ["kitchen", "hall"],
+         "notSeen": ["dining room"]    
+		}
+   }
+]

@@ -1,0 +1,18 @@
+[
+   {
+      "suspect": "Professor Plum",
+      "weapon": "revolver",
+      "rooms": {
+         "seen": ["hall", "study"],
+         "notSeen": ["billiard room", "ballroom"]
+		}
+   },
+   {
+      "suspect": "Mrs White",
+      "weapon": "rope",
+      "rooms": {
+         "seen": ["billiard room"],
+         "notSeen": ["conservatory", "lounge"]
+		}
+   }
+]
